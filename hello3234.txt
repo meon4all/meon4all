@@ -1,4 +1,8 @@
 hello3
 add changes 18April2022
+<<<<<<< HEAD
 local merge conflict new_code
+merge demo case new_code
 merge demo case
+
+
